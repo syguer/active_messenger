@@ -1,0 +1,15 @@
+development:
+  hipchat:
+    api_token: hogehoge
+    room_id: 1234567
+    user_name: hoge
+production:
+  hipchat:
+    api_token: hogehoge
+    room_id: 1234567
+    user_name: hoge
+test:
+  hipchat:
+    api_token: hogehoge
+    room_id: 1234567
+    user_name: hoge
